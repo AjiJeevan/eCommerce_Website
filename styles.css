@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.custom-image{
+
+    height: 400px;
+    object-fit: cover;
+}
+
+.product{
+    padding: -16px -8px 0px -8px !important;
+}
+
